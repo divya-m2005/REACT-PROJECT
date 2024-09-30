@@ -1,0 +1,32 @@
+.checkout-process form {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+  
+  .checkout-process label {
+    margin-bottom: 5px;
+  }
+  
+  .checkout-process input {
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+    max-width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .checkout-process button {
+    padding: 10px 20px;
+    background-color: #2196F3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .checkout-process button:hover {
+    background-color: #0b7dda;
+  }
+  

@@ -1,0 +1,28 @@
+.catalog ul {
+    list-style-type: none;
+    padding: 0;
+    
+  }
+  
+  .catalog li {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    
+  }
+  
+  .catalog button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .catalog button:hover {
+    background-color: #45a049;
+  }
+  
